@@ -2,3 +2,5 @@ Filetest2.txt
 sdf
 sdf
 df
+sdfsdf;lsdf;'sd
+sd;f.,dsfs
